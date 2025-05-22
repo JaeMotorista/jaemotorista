@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Jaé Motorista</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #00796b;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header img {
+      max-height: 60px;
+      margin-bottom: 1rem;
+    }
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    h2 {
+      color: #00796b;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: #777;
+      font-size: 0.9rem;
+    }
+    .whatsapp-button {
+      display: inline-block;
+      background-color: #25d366;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 1rem;
+    }
+    .whatsapp-button:hover {
+      background-color: #1ebe5d;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Logo provisória em texto -->
+    <img src="https://via.placeholder.com/150x60?text=Ja%C3%A9+Motorista" alt="Logo Jaé Motorista" />
+    <h1>Jaé Motorista</h1>
+    <p>Conectando motoristas às melhores oportunidades</p>
+  </header>
+
+  <section>
+    <h2>Sobre nós</h2>
+    <p>
+      A Jaé Motorista é uma empresa especializada na intermediação e corretagem de aluguéis de veículos para motoristas parceiros. 
+      Trabalhamos com grandes locadoras do mercado e oferecemos uma jornada simplificada e segura para quem deseja começar a trabalhar com transporte por aplicativos.
+    </p>
+
+    <h3>Missão</h3>
+    <p>Facilitar o acesso de motoristas a veículos de forma rápida, transparente e sem burocracia.</p>
+
+    <h3>Valores</h3>
+    <ul>
+      <li>Transparência e honestidade</li>
+      <li>Agilidade no atendimento</li>
+      <li>Parcerias de confiança</li>
+      <li>Valorização do motorista</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Como funciona</h2>
+    <ol>
+      <li>O motorista entra em contato via WhatsApp</li>
+      <li>Recebe um formulário para preenchimento</li>
+      <li>Faz um curso preparatório (valor simbólico de R$ 49,90)</li>
+      <li>Recebe a prova online via WhatsApp</li>
+      <li>Agenda uma entrevista com nossa equipe</li>
+      <li>Assina contrato e recebe a carta de retirada do carro</li>
+      <li>O carro é liberado na locadora ideal para o perfil do motorista</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Contato</h2>
+    <p>Estamos em fase final de abertura dos nossos canais oficiais de atendimento.</p>
+    <p>Em breve você poderá entrar em contato direto por WhatsApp, e-mail e redes sociais.</p>
+    <a href="#" class="whatsapp-button">Fale conosco pelo WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Jaé Motorista. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
